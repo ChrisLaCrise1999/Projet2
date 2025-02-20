@@ -1239,6 +1239,7 @@ body{
   display: flex;
   justify-content: space-between;
   border-radius: 15px;
+  margin-top: 0.5em;
 }
       
 .section-title-2{
@@ -1284,10 +1285,10 @@ body{
 }
       
 .activites{
-  background-color: yellow;
-  /*background-color: white;*/
+  /*background-color: yellow;*/
+  background-color: white;
   width: 90%;
-  height: 800px;
+  height: 500px;
   font-family: raleway;
   font-weight: 700;
   font-size: 16px;
@@ -1301,8 +1302,8 @@ body{
 }
       
 .activites .frame14{
-  background-color: indigo;
-  /*background-color: white;*/
+  /*background-color: indigo;*/
+  background-color: white;
   width: 100%;
   height: 78.53%;
   justify-content: space-between;
@@ -1310,10 +1311,10 @@ body{
 }
       
 .activites .card1{
-  background-color: red;
-  /*background-color: #ffffff;*/
+  /*background-color: red;*/
+  background-color: #ffffff;
   width: 23.2421875%;
-  height: 78.53%;
+  height: 250px;
   margin-right: 0.5em;
   /*margin-left: 1em;*/
   border-radius: 20px;
@@ -1321,7 +1322,7 @@ body{
 }
       
 .frame16{
-  /*background-color: #FFFFFF;*/
+  background-color: #FFFFFF;
   width: 314px;
   padding-left: 1em;
 }
@@ -1329,17 +1330,17 @@ body{
 .activites .card1 #img1{
   /*width: 330px;*/
   width: 100%;
-  height: 174,5454545454545px;
+  height: 174.5454545454545px;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
   object-fit: cover;
 }
 
 .activites .card2{
-background-color: green;
-/*background-color: #ffffff;*/
+/*background-color: green;*/
+background-color: #ffffff;
   width: 23.2421875%;
-  height: 78.53%;
+  height: 250px;
   margin-right: 0.5em;
   margin-left: 0.5em;
   border-radius: 20px;
@@ -1350,6 +1351,7 @@ background-color: green;
   /*width: 330px;*/
   width: 100%;
   /*height: 87%;*/
+  height: 174.5454545454545px;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
   object-fit: cover;
@@ -1362,10 +1364,10 @@ background-color: green;
 }
       
 .activites .card3{
-  background-color: orange;
-  /*background-color: #ffffff;*/
+  /*background-color: orange;*/
+  background-color: #ffffff;
   width: 23.2421875%;
-  height: 78.53%;
+  height: 250px;
   margin-right: 0.5em;
   margin-left: 0.5em;
   border-radius: 20px;
@@ -1376,6 +1378,7 @@ background-color: green;
   width: 100%;
   /*width: 330px;*/
   /*height: 87%;*/
+  height: 174.5454545454545px;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
   object-fit: cover;
@@ -1390,10 +1393,10 @@ background-color: green;
 }
 
 .activites .card4{
-  background-color: violet;
-  /*background-color: #FFFFFF;*/
+  /*background-color: violet;*/
+  background-color: #FFFFFF;
   width: 23.2421875%;
-  height: 78.53%;
+  height: 250px;
   /*margin-right: 1em;*/
   margin-left: 0.5em;
   border-radius: 20px;
@@ -1404,6 +1407,7 @@ background-color: green;
   width: 100%;
   /*width: 330px;*/
   /*height: 87%;*/
+  height: 174.5454545454545px;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
   object-fit: cover;
@@ -1490,7 +1494,7 @@ background-color: green;
   .reservia{
       /*background-color: white;*/
       background-color: orange;
-      width: 120%;
+      width: 121%;
       height:115px;
       display: flex;
       flex-direction: column;
@@ -1513,14 +1517,14 @@ background-color: green;
   .menu{
       /*background-color: white;*/
       background-color: green;
-      width:100%;
+      width:95%;
       height:31.30434782608696%;
       display:flex;
       flex-direction: row;
       justify-content: space-between;
       color: black;
       text-decoration: none;
-      margin-right: -6em;
+      /*margin-right: -6em;*/
       /*margin-left: 3em;*/
   }
 
